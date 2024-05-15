@@ -19,6 +19,15 @@ More updates on the game later .....
 - Display Timer
 
 
+### Rules of the game:
+- Question pops up on every correct answer you choose.
+- On every correct answer, you win a certain amount of money and you can choose to walk away anytime.
+- If you get any wrong answer before getting to the guaranteed price level, you will go back to the guaranteed price level you have surpassed successfully, however, you wont win anything if eventually you choose the wrong answer at the lowest guaranteed price.
+- You can also use lifelines such as 50/50, call a friend, and ask the audience (50/50 deletes two wrong answers, leaving one correct answer and wrong answer for you to choose.)\
+
+- Good lick 😉💖
+
+
 ### Built with
 - Html
 - Css
