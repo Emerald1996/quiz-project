@@ -6,6 +6,8 @@ More updates on the game later .....
 
 #  Deployed to 👇
 
+- Explore [Project Link](https://emerald-millonaire-quiz.netlify.app/)
+
 
 
 ### Features:
@@ -30,7 +32,11 @@ More updates on the game later .....
 
 #### Screenshot👇
 
+- Start page
 <img align="center" src="quiz-start.png"/>
+
+
+- Question page
 <img align="center" src="question-page.png"/>
 
 
